@@ -85,7 +85,9 @@ public class D_New {
 
 A、B、C不提
 
-D. 线段树维护区间最大最小值；附一个代码
+D. 线段树维护区间最大最小值
+
+附一个代码
 
 ```java
 public class D {
