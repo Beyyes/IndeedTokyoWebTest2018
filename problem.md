@@ -2,13 +2,13 @@
 ## 第一场网测
 
 ### Problem A
-![](./A.png)
+[A](https://github.com/Beyyes/IndeedTokyoWebTest2018/blob/master/A.png)
 ### Problem B
-![](./B.png)
+[A](https://github.com/Beyyes/IndeedTokyoWebTest2018/blob/master/B.png)
 ### problem C
-![](./C.png)
+[A](https://github.com/Beyyes/IndeedTokyoWebTest2018/blob/master/C.png)
 ### problem D
-![](./D.png)
+[A](https://github.com/Beyyes/IndeedTokyoWebTest2018/blob/master/D.png)
 
 ### Solution
 A. 
